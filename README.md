@@ -19,7 +19,8 @@
 #
 -->
 
-[![Build Status](https://travis-ci.org/apache/cordova-browser.svg)](https://travis-ci.org/apache/cordova-browser)
+[![Build status](https://travis-ci.org/apache/cordova-browser.svg?branch=master )](https://travis-ci.org/apache/cordova-browser.svg?branch=master )
+[![Build Status](https://ci.appveyor.com/api/projects/status/4oan2jjn7nlgfay3/branch/master?svg=true)](https://ci.appveyor.com/api/projects/status/4oan2jjn7nlgfay3/branch/master?svg=true)
 
 # Cordova Browser
 
